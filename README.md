@@ -1,2 +1,8 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+\# 🐶 Infinite Dog App
+This Project was a class assignment based on the excellent tutorial by \*\*Brad Schiff\*\* 
+
+All the code precented in this all goes to \*\*Brad Schiff\*\*
+
+
+
+
